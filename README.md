@@ -51,4 +51,11 @@ Manage Addresses Route: http://localhost:5173/addresses
 Note:
 The app may contain some bugs due to limited time for development.
 
+![image](https://github.com/user-attachments/assets/179d99d7-7979-4d55-8cd3-69a6336f5651)
+![image](https://github.com/user-attachments/assets/d436f1e2-7f02-4d4c-aff0-bf116fd6f751)
+![image](https://github.com/user-attachments/assets/948835a2-9b3d-4378-aa37-20232ff827f9)
+![image](https://github.com/user-attachments/assets/c825ab8d-99f4-42df-bf03-2b2fda20529c)
+
+
+
 
